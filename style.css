@@ -1,0 +1,16 @@
+body {
+    background-color: whitesmoke;
+
+}
+
+.header{
+    height: 400px;
+    background-image: url('./Images/Image20230425120106.jpg');
+    background-position: center ;
+    background-repeat: no-repeat ;
+}
+
+h1{
+    font-size: 100px;
+    text-align: center;
+}
